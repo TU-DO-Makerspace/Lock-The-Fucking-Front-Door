@@ -18,10 +18,12 @@
 # Description: Installer/Uninstaller for ltffd-notify
 
 # Time at which to notify users
+# Currently set to 00:00, change if necessary
 HOUR="00"
 MIN="00"
 
 # Message to display
+# Change if necessary
 TITLE="Reminder"
 TEXT="Lock the fucking front door!\n\nDue to past encounters with burglars, the TU-DO Makerspace door must be kept locked after ${HOUR}:${MIN}. Please close and lock the front door if it has not been done yet."
 

@@ -15,7 +15,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-# Description: Displays a zenity notification to all users running an X11 session.
+# Description: Displays a zenity notification to all users running a X11 session.
 
 PATH=/usr/bin:/bin
 

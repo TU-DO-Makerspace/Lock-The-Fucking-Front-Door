@@ -5,7 +5,7 @@ users using our PC to close and lock the fucking front door.
 
 Currently, the script is scheduled to display the notification at `00:00` every day. 
 
-The necessity for script arose after the Makerspace became a recent target of burglary during the time of writing.
+The necessity for this script arose after the Makerspace became a (at the time of writing) recent target of burglary.
 
 ## Installation
 

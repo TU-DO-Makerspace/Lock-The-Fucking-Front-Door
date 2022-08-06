@@ -3,7 +3,7 @@
 The following repository contains a daily scheduled script that will remind all active
 users using our PC to close and lock the fucking front door.
 
-The currently set schedule to display the notification is set to `00:00` every day. 
+Currently, the script is scheduled to display the notification at `00:00` every day. 
 
 The necessity for script arose after the Makerspace became a recent target of burglary during the time of writing.
 
